@@ -6,7 +6,7 @@
 강의 내용이 궁금하시면 해당 강좌를 수강바랍니다.
 
 구현할 토이프로젝트 순서는 아래와 같습니다.
-- 문자열 계산기(소스코드 url : [Github](https://github.com/hy43/))
+- 문자열 계산기(소스코드 url : [Github](https://github.com/hY43/StringCalculator))
 - 레이싱 게임
 - 로또 생성기
 - 볼링 게임
